@@ -1,0 +1,6 @@
+chat_picture/*
+user_picture/*
+venv/*
+.vscode/*
+*.pyc
+api.json

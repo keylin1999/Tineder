@@ -1,0 +1,21 @@
+[x]pair, unpair
+[x]app receive message logic flow
+[x]testing app message logic
+[x]pair, unpair check
+[]cancel pairing if user hasn't finish answering basic questions yet
+[]resize keeping ratio
+[]ask user to fill up basic questions in following event
+[]message event(or postback event) in rich menu
+[]put all the message into one config file and enable multiple language
+[]support different language with different message
+[]change folder name action to session
+[]randomly assign id to photo image in folder
+
+new featrue:
+[]chat setting (block image message...)
+[]reply when user chat to bot (not command)
+[]quilcky modify few setting
+
+know bugs:
+[]if user don't have status message set, it will display 'None' in line
+[]unpredictable behavior when user send image randomly to bot
