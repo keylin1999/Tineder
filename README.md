@@ -59,3 +59,7 @@ mysql_url = "{drivername}://{user}:{passwd}@{host}:{port}/{db_name}?charset=utf8
 ```sh
 python app.py
 ```
+
+## QR code
+掃這個二維碼以加入機器人
+![unpair user](asset/qrcode.png)
